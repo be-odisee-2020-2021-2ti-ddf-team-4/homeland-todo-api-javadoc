@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"be.odisee.ti2.groep4.homelandtodo"},{"l":"be.odisee.ti2.groep4.homelandtodo.controller"},{"l":"be.odisee.ti2.groep4.homelandtodo.dao"},{"l":"be.odisee.ti2.groep4.homelandtodo.domain"},{"l":"be.odisee.ti2.groep4.homelandtodo.service"}]
